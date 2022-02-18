@@ -2,24 +2,19 @@ ansible==5.0.1
 ansible-core==2.12.0
 brotlipy==0.7.0
 certifi==2021.5.30
-cffi @ file:///tmp/build/80754af9/cffi_1625807838443/work
-chardet @ file:///tmp/build/80754af9/chardet_1607706746162/work
 conda==4.10.3
-conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1618262148928/work
-cryptography @ file:///tmp/build/80754af9/cryptography_1616769286105/work
-idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+
+
 Jinja2==3.0.3
 MarkupSafe==2.0.1
 pycosat==0.6.3
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+
+
 PySocks==1.7.1
-requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+
 requests-futures==1.0.0
 resolvelib==0.5.4
-ruamel-yaml-conda @ file:///tmp/build/80754af9/ruamel_yaml_1616016699510/work
-six @ file:///tmp/build/80754af9/six_1623709665295/work
+
+
 stem==1.8.0
 torrequest==0.1.0
-tqdm @ file:///tmp/build/80754af9/tqdm_1625563689033/work
-urllib3 @ file:///tmp/build/80754af9/urllib3_1625084269274/work
