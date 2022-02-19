@@ -6,11 +6,12 @@ from dotenv import load_dotenv
 
 # from test_script import open_edit
 from youtube_downlodaer import video_download,audio_download,twitch_vod_download
-DISCORD_TOKEN = os.environ.get("DISCORD_TOKEN")
+# DISCORD_TOKEN = os.environ.get("DISCORD_TOKEN")
 
 
 load_dotenv()
 DISCORD_FOLDER = os.getenv("DOWNLOAD_PATH")
+DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 bot = commands.Bot(command_prefix='$')
 
 @bot.command()
